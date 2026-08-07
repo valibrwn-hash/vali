@@ -8,7 +8,7 @@ export const site = {
   availability: "Available for new engagements",
   calendarUrl: "https://cal.com",
   linkedin: "https://linkedin.com",
-  github: "https://github.com",
+  github: "https://github.com/valibrwn-hash/vali",
   /** Add path e.g. "/resume.pdf" when ready — file goes in /public */
   resumeUrl: "",
   location: "Global · Remote-first",
